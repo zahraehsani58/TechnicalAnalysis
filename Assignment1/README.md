@@ -2,7 +2,10 @@
 
 Technical Analysis Assignment
 
-Student: Zara Eh
-Course:
-Professor:
-Date:
+**Student:** Zahra Ehsani
+
+**Course:** BDA400
+
+**Professor:** Jinalben Patel
+
+**Date:** July 2026
